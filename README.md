@@ -97,7 +97,7 @@ NHS-Healthcare-Performance-Dashboard/
 
 ## Author
 # Lewis
-This project forms part of my Data Analytics portfolio and demonstrates practical skills 
-in Excel, Power BI and healthcare performance reporting.
+ This project forms part of my Data Analytics portfolio and demonstrates practical skills 
+ in Excel, Power BI and healthcare performance reporting.
 
 
