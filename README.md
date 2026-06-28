@@ -46,14 +46,13 @@ performance and identify areas requiring attention.
 <p style ="color:black;"> 4.Referrals by Borough</p>
 <p style ="color:black;"> 5.Target Achievement</p>
 
-<h1 style ="color:black;">Key Performance Metrics</h1
-
-# Metric                                       Value     
-Total Referrals                                 505
-Attendance Rate                                 71.68%
-DNA Rate                                        28.32%
-Average Waiting Time                            28.25 days
-Patients Withn Target                           56.63%
+# Key Performance Metrics
+# Metric	                             Value
+Total Referrals	                    505
+Attendance Rate                     71.68%
+DNA Rate                           	28.32%
+Average Waiting Time	              28.25 days
+Patients Within Target             	56.63%
 
 <h1 style ="color:green;"> Key Insights</h1>
 
@@ -69,11 +68,11 @@ Patients Withn Target                           56.63%
 
  Repository Contents
 NHS-Healthcare-Performance-Dashboard/
-|
-|_NHS_Performance_Dashboard.xlsx
-|_NHS-Healthcare_Performance_Project.pbix
-|_Dashboard_Screenshot.png
-|_README.md
+│
+├── NHS_Performance_Dashboard.xlsx
+├── NHS_Healthcare_Performance_Project.pbix
+├── Dashboard_Screenshot.png
+└── README.md
 
 <h2 style ="color:green;"> Skills Demonstrated</h2>
 <p style ="color:black;"> 1.Microsoft Excel</p>
