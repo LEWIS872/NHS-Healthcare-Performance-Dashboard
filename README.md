@@ -55,19 +55,19 @@ DNA Rate                                        28.32%
 Average Waiting Time                            28.25 days
 Patients Withn Target                           56.63%
 
-## Key Insights
+<h1 style ="color:green;"> Key Insights</h1>
 
-# Service Performance
-.Diabetes Clinic and Mental Health recorded the highest referral volumes (88 referrals each).
-.Community Care, Occupational Therapy and Physiotherapy each recorded 81 referrals .
-.Mental Health achieved the shortest average waiting time (20.13 days).
-.Occupational Therapy recorded the longest average waiting time (42.65 days).
+<h2 style ="color:green;"> Service Performance</h2>
+<p style ="color:black;"> 1.Diabetes Clinic and Mental Health recorded the highest referral volumes (88 referrals each).</p>
+<p style ="color:black;"> 2.Community Care, Occupational Therapy and Physiotherapy each recorded 81 referrals.</p>
+<p style ="color:black;"> 3.Mental Health achieved the shortest average waiting time (20.13 days).</p>
+<p style ="color:black;"> 4.Occupational Therapy recorded the longest average waiting time (42.65 days).</p>
 
-# Borough Analysis
-.Highest referrals:Bracknell (114).
-.Lowest referrals:Wokingham (82).
+<h2 style ="color:green;"> Borough Analysis</h2>
+<p style ="color:black;"> 1.Highest referrals:Bracknell (114).</p>
+<p style ="colr:black;"> 2.Lowest referrals:Wokingham (82).</p>
 
-## Repository Contents
+<h2 style ="color:green;">  Repository Contents</h2>
 NHS-Healthcare-Performance-Dashboard/
 |
 |_NHS_Performance_Dashboard.xlsx
@@ -75,28 +75,28 @@ NHS-Healthcare-Performance-Dashboard/
 |_Dashboard_Screenshot.png
 |_README.md
 
-# Skills Demonstrated
-.Microsoft Excel
-.Power BI
-.Data Cleaning
-.Data Validation
-.KPI Reporting
-.Dashboard Development
-.Data Visualisation
-.Healthcare Performance Analysis
-.Data Storytelling
+<h2 style ="color:green;"> Skills Demonstrated</h2>
+<p style ="color:black;"> 1.Microsoft Excel</p>
+<p style ="color:black;"> 2.Power BI</p>
+<p style ="color:black;"> 3.Data Cleaning</p>
+<p style ="color:black;"> 4.Data Validation</p>
+<p style ="color:black;"> 5.KPI Reporting</p>
+<p style ="color:black;"> 6.Dashboard Development</p>
+<p style ="color:black;"> 7.Data Visualisation</p>
+<p style ="color:black;"> 8.Healthcare Performance Analysis</p>
+<p style ="color:black;"> 9.Data Storytelling</p>
 
-## Future Improvements
+<h1 style ="color:green;"> Future Improvements</h1>
 
-# Potential enhancements include:
-.Interactive date filtering
-.Additional KPIs
-.Trend Analysis over time
-.Drill-through reports
-.Executive summary page
+<h2 style ="color:black;"> Potential enhancements include:</h2>
+<p style ="color:black;"> 1.Interactive date filtering</p>
+<p style ="color:black;"> 2.Additional KPIs</p>
+<p style ="color:black;"> 3.Trend Analysis over time</p>
+<p style ="color:black;"> 4.Drill-through reports</p>
+<p style ="color:black;"> 5.Executive summary page</p>
 
-## Author
-# Lewis
+<h1 style ="color:green;">  Author</h1>
+<h2 style ="color:green;"> Lewis</h2>
  This project forms part of my Data Analytics portfolio and demonstrates practical skills 
  in Excel, Power BI and healthcare performance reporting.
 
