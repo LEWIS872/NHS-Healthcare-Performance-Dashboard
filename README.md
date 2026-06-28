@@ -13,20 +13,20 @@ cards and interactive visualisations, enabling healthcare managers to monitor se
 performance and identify areas requiring attention.
 
 # Objectives
-.Analyse referral activity across healthcare services.
-.Monitor appointment attendance and DNA (Did Not Attend) rates.
-.Measure average waiting times by service.
-.Compare referral demand across boroughs.
-.Monitor performance against waiting time targets.
-.Present key performance indicators (KPIs) in an interactive dashboard.
+1.Analyse referral activity across healthcare services.
+2.Monitor appointment attendance and DNA (Did Not Attend) rates.
+3.Measure average waiting times by service.
+4.Compare referral demand across boroughs.
+5.Monitor performance against waiting time targets.
+6.Present key performance indicators (KPIs) in an interactive dashboard.
 
 # Tools and Technologies 
-.Microsoft Excel
-.Power BI Desktop
-.Pivot Tables
-.Data Cleaning and Validation
-.Data visualisation
-.KPI Reporting
+1.Microsoft Excel
+2.Power BI Desktop
+3.Pivot Tables
+4.Data Cleaning and Validation
+5.Data visualisation
+6.KPI Reporting
 
 ## Dashboard Features
 
