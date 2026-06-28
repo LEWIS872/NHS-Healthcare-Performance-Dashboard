@@ -12,7 +12,7 @@ The dashboard transforms patient referral data into meaningful insights using KP
 cards and interactive visualisations, enabling healthcare managers to monitor service 
 performance and identify areas requiring attention.
 
-<h2 style ="color:blue;">Objectives</h2>
+<h2 style ="color:green;">Objectives</h2>
 <p style ="color:black;"> 1.Analyse referral activity across healthcare services.</p>
 <p style ="color:black;"> 2.Monitor appointment attendance and DNA (Did Not Attend) rates.</p>
 <p style ="color:black;"> 3.Measure average waiting times by service.</p>
@@ -20,7 +20,7 @@ performance and identify areas requiring attention.
 <p style ="color:black;"> 5.Monitor performance against waiting time targets.</p>
 <p style ="color:black;"> 6.Present key performance indicators (KPIs) in an interactive dashboard.</p>
 
-<h2 style ="color:blue;">Tools and Technologies</h2>
+<h2 style ="color:green;">Tools and Technologies</h2>
 <p style ="color:black;"> 1.Microsoft Excel</p>
 <p style ="color:black;"> 2.Power BI Desktop</p>
 <p style ="color:black;"> 3.Pivot Tables</p>
