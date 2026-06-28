@@ -12,7 +12,7 @@ The dashboard transforms patient referral data into meaningful insights using KP
 cards and interactive visualisations, enabling healthcare managers to monitor service 
 performance and identify areas requiring attention.
 
-# Objectives
+<h2 style ="color:black;">Objectives</h2>
 1.Analyse referral activity across healthcare services.
 2.Monitor appointment attendance and DNA (Did Not Attend) rates.
 3.Measure average waiting times by service.
