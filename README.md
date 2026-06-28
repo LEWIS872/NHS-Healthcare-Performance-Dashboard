@@ -1,10 +1,10 @@
-## NHS Healthcare Performance Dashboard
+<h1 style ="color:green;"> NHS Healthcare Performance Dashboard</h1>
 An interactive healthcare analytics dashboard developed using Microsoft Excel and Power BI to monitor referral activity, appointment attendance,
 waiting times, borough demand and performance against waiting time targets.
 
-## Dashboard Preview
+<h1 style ="color:green;"> Dashboard Preview</h1>
 
-# Project Overview
+<h2 style ="color:green;"> Project Overview</h2>
 This project simulates the type of reporting used by NHS Information, Performance 
 and Data Analysts to support operational and strategic decision-making.
 
@@ -44,7 +44,7 @@ performance and identify areas requiring attention.
 <p style ="color:black;"> 2.Attendance Performance</p>
 <p style ="color:black;"> 3.Average Waiting Time by Service</p>
 <p style ="color:black;"> 4.Referrals by Borough</p>
-<p style ="color:black;"> 5.Target Achievement
+<p style ="color:black;"> 5.Target Achievement</p>
 
 <h1 style ="color:black;">Key Performance Metrics</h1
 
@@ -58,14 +58,14 @@ Patients Withn Target                           56.63%
 <h1 style ="color:green;"> Key Insights</h1>
 
 <h2 style ="color:green;"> Service Performance</h2>
-<p style ="color:black;"> 1.Diabetes Clinic and Mental Health recorded the highest referral volumes (88 referrals each).</p>
-<p style ="color:black;"> 2.Community Care, Occupational Therapy and Physiotherapy each recorded 81 referrals.</p>
-<p style ="color:black;"> 3.Mental Health achieved the shortest average waiting time (20.13 days).</p>
-<p style ="color:black;"> 4.Occupational Therapy recorded the longest average waiting time (42.65 days).</p>
+<p style ="color:black;"> 1.Diabetes Clinic and Mental Health recorded the highest referral volumes (88 referrals each)</p>
+<p style ="color:black;"> 2.Community Care, Occupational Therapy and Physiotherapy each recorded 81 referrals</p>
+<p style ="color:black;"> 3.Mental Health achieved the shortest average waiting time (20.13 days)</p>
+<p style ="color:black;"> 4.Occupational Therapy recorded the longest average waiting time (42.65 days)</p>
 
 <h2 style ="color:green;"> Borough Analysis</h2>
-<p style ="color:black;"> 1.Highest referrals:Bracknell (114).</p>
-<p style ="colr:black;"> 2.Lowest referrals:Wokingham (82).</p>
+<p style ="color:black;"> 1.Highest referrals:Bracknell (114)</p>
+<p style ="colr:black;"> 2.Lowest referrals:Wokingham (82)</p>
 
 <h2 style ="color:green;">  Repository Contents</h2>
 NHS-Healthcare-Performance-Dashboard/
