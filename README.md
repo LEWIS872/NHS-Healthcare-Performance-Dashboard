@@ -28,27 +28,27 @@ performance and identify areas requiring attention.
 <p style ="color:black;"> 5.Data visualisation</p>
 <p style ="color:black;"> 6.KPI Reporting</p>
 
-## Dashboard Features
+<h1 style ="color: black;"> Dashboard Features</h1>
 
-# KPI Cards
+<h2 style ="color:black;"> KPI Cards</h2>
 
-.Total Referrals
-.Total Attended
-.Total DNA
-.Average Waiting Time
-.Patients Within Target
+<p style ="color:black;"> 1.Total Referrals</p>
+<p style ="color:black;"> 2.Total Attended</p>
+<p style ="color:black;"> 3.Total DNA</p>
+<p style ="color:black;"> 4.Average Waiting Time</p>
+<p style ="color:black;"> 5.Patients Within Target</p>
 
-# Visualisation
+<h2 style ="color:black;"> Visualisation</h2>
 
-.Referrals by Service
-.Attendance Performance
-.Average Waiting Time by Service
-.Referrals by Borough
-.Target Achievement
+<p style ="color:black;"> 1.Referrals by Service</p>
+<p style ="color:black;"> 2.Attendance Performance</p>
+<p style ="color:black;"> 3.Average Waiting Time by Service</p>
+<p style ="color:black;"> 4.Referrals by Borough</p>
+<p style ="color:black;"> 5.Target Achievement
 
-## Key Performance Metrics
+<h1 style ="color:black;">Key Performance Metrics</h1
 
-# Metric                                      # Value
+<h2 style ="color:black;"> Metric                 Value                    </h2>                   
 Total Referrals                                 505
 Attendance Rate                                 71.68%
 DNA Rate                                        28.32%
