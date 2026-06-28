@@ -48,7 +48,7 @@ performance and identify areas requiring attention.
 
 <h1 style ="color:black;">Key Performance Metrics</h1
 
-<h2 style ="color:black;"> Metric                 Value                    </h2>                   
+<h2 style ="color:black;"> Metric</h2>              <h2 style ="color:black;">Value</h2>     
 Total Referrals                                 505
 Attendance Rate                                 71.68%
 DNA Rate                                        28.32%
