@@ -48,9 +48,9 @@ performance and identify areas requiring attention.
 
 <h1 style ="color:black;">Key Performance Metrics</h1
 
-<h2 style ="color:black;"> Metric</h2>                     <h2 style ="color:black;"> Value</h2>     
-<p style ="color:black;"> Total Referrals</p>              <p style ="color:black;">  505</p>
-<p style ="color:black;"> Attendance Rate</p>              <p style ="color:black;">  71.68%</p>
+# Metric                                       Value     
+Total Referrals                                 505
+Attendance Rate                                 71.68%
 DNA Rate                                        28.32%
 Average Waiting Time                            28.25 days
 Patients Withn Target                           56.63%
@@ -67,7 +67,7 @@ Patients Withn Target                           56.63%
 <p style ="color:black;"> 1.Highest referrals:Bracknell (114)</p>
 <p style ="colr:black;"> 2.Lowest referrals:Wokingham (82)</p>
 
-<h2 style ="color:green;">  Repository Contents</h2>
+ Repository Contents
 NHS-Healthcare-Performance-Dashboard/
 |
 |_NHS_Performance_Dashboard.xlsx
